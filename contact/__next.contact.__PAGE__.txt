@@ -1,0 +1,43 @@
+1:"$Sreact.fragment"
+2:"/minded-gallery/_next/static/chunks/0dwdpuxvvw-ym.js"
+3:I[81865,["$2"],"default"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:I[22016,["$2"],""]
+12:"ViewportBoundary"
+13:I[97367,["$2"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$2"],"$14"]
+16:"$Sreact.suspense"
+:HL["/minded-gallery/_next/static/chunks/14a-4f4scr3bz.css","style"]
+8:X
+b:X
+b:C
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-[1440px] px-6 md:px-10 py-20 md:py-28 grid lg:grid-cols-[1fr_1.3fr] gap-16","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow text-gallery","children":"Contact"}],["$","h1",null,{"className":"font-display text-6xl md:text-7xl mt-4","children":"Correspondence"}],["$","p",null,{"className":"mt-6 text-stone leading-relaxed max-w-md","children":"For gallery enquiries, exhibition opportunities, commissions, collaborations, press and general correspondence."}],"$Ld"]}],"$Le"]}],["$Lf"],"$L10"]}],"p":"$@11","v":null,"s":"$8"}}]]
+9:[["children",{"s":"contact","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$b","s":"$8"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/minded-gallery/_next/static/chunks/14a-4f4scr3bz.css","precedence":"next"}],["$","script","script-0",{"src":"/minded-gallery/_next/static/chunks/0dwdpuxvvw-ym.js","async":true}]],["$","html",null,{"lang":"en-GB","className":"qY6uFa_variable sPqcIa_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{if(sessionStorage.getItem('minded-intro-seen')==='1')document.documentElement.dataset.introSeen='1'}catch(e){}"}}]}],["$","body",null,{"className":"min-h-screen flex flex-col","children":[["$","a",null,{"href":"#main","className":"sr-only focus:not-sr-only focus:fixed focus:top-3 focus:left-3 focus:z-[100] bg-forest text-titanium px-4 py-2","children":"Skip to content"}],["$","$L3",null,{}],["$","main",null,{"id":"main","className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","div",null,{"className":"page-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":null,"notFound":[["$","div",null,{"className":"mx-auto max-w-3xl px-6 py-40 text-center","children":[["$","p",null,{"className":"eyebrow text-gallery","children":"An accidental error"}],["$","h1",null,{"className":"font-display text-6xl mt-4","children":"This page does not exist."}],["$","$L6",null,{"href":"/","className":"link-underline mt-10 inline-block eyebrow","children":"Return home"}]]}],[]]}]}],["$","footer",null,{"className":"bg-charcoal text-titanium/80 mt-auto","children":[["$","div",null,{"className":"mx-auto max-w-[1440px] px-6 md:px-10 py-14 grid gap-10 md:grid-cols-[1.4fr_1fr_1fr]","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-display text-3xl tracking-[0.3em] text-titanium","children":"MINDED"}],["$","p",null,{"className":"eyebrow mt-3 text-titanium/60","children":"The Saboteur and Curator of Accidental Errors"}],["$","p",null,{"className":"mt-6 max-w-md text-sm leading-relaxed text-titanium/60","children":"The artistic identity of Dammy Ojo. Images marked “Visualisation” are artist-supplied mockups, not photographs of finished physical works."}]]}],["$","nav",null,{"aria-label":"Footer","children":["$","ul",null,{"className":"space-y-2 text-sm","children":[["$","li",null,{"children":["$","$L6",null,{"className":"link-underline","href":"/works/","children":"Works"}]}],["$","li",null,{"children":["$","$L6",null,{"className":"link-underline","href":"/gallery/","children":"Virtual Gallery"}]}],["$","li",null,{"children":["$","$L6",null,{"className":"link-underline","href":"/gallery/?view=2d","children":"Gallery (2D view)"}]}],["$","li",null,{"children":["$","$L6",null,{"className":"link-underline","href":"/archive/","children":"Archive / Process"}]}],["$","li",null,{"children":["$","$L6",null,{"className":"link-underline","href":"/literature/","children":"Literature"}]}]]}]}],["$","div",null,{"className":"text-sm space-y-2","children":[["$","p",null,{"children":["$","$L6",null,{"className":"link-underline","href":"/about/","children":"About MINDED"}]}],["$","p",null,{"children":["$","$L6",null,{"className":"link-underline","href":"/contact/","children":"Contact"}]}],["$","p",null,{"className":"pt-4 text-titanium/45 text-xs leading-relaxed","children":"Preview build: Phases 1–2 (visual foundation and virtual gallery). Content management arrives in Phase 3."}]]}]]}],["$","div",null,{"className":"border-t border-titanium/10 py-5 text-center text-xs text-titanium/40","children":"© 2026 Dammy Ojo / MINDED. All artworks and images are the property of their respective rights holders."}]]}]]}]]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#103D2C"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$16",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Contact | MINDED"}],["$","meta","1",{"name":"description","content":"Gallery enquiries, exhibition opportunities, commissions, collaborations, press and general correspondence for MINDED."}],["$","meta","2",{"property":"og:title","content":"Contact | MINDED"}],["$","meta","3",{"property":"og:description","content":"Gallery enquiries, exhibition opportunities, commissions, collaborations, press and general correspondence for MINDED."}],"$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d"]}]}],null]}],"$L1e"]}],"p":"$@1f","v":null,"s":"$8"}},"a":"$@20","u":"$@21","b":"U0vhq9zpmMwPRSqlNcdwJ"}
+22:"/minded-gallery/_next/static/chunks/328_dbonw5fe3.js"
+23:I[97700,["$2","$22"],"default"]
+24:I[97367,["$2"],"OutletBoundary"]
+26:I[27201,["$2"],"IconMark"]
+d:["$","ul",null,{"className":"mt-10 space-y-2 font-display text-2xl text-charcoal/80","children":[["$","li","Gallery enquiries",{"children":"Gallery enquiries"}],["$","li","Exhibition opportunities",{"children":"Exhibition opportunities"}],["$","li","Commissions",{"children":"Commissions"}],["$","li","Collaborations",{"children":"Collaborations"}],["$","li","Press",{"children":"Press"}],["$","li","General correspondence",{"children":"General correspondence"}]]}]
+e:["$","$L23",null,{"types":["Gallery enquiries","Exhibition opportunities","Commissions","Collaborations","Press","General correspondence"],"works":[{"slug":"aura-001","title":"AURA 001"},{"slug":"lonely","title":"LONELY"},{"slug":"lonely-golden-sun","title":"LONELY: GOLDEN SUN"},{"slug":"justice","title":"JUSTICE"},{"slug":"justice-vinyl-edition","title":"JUSTICE (VINYL EDITION)"},{"slug":"shades-of","title":"SHADES OF"},{"slug":"black-and-gold","title":"BLACK & GOLD"},{"slug":"15-shades-of-green","title":"15 SHADES OF GREEN"},{"slug":"shades-of-green","title":"SHADES OF GREEN"},{"slug":"shades-of-blue","title":"SHADES OF BLUE"},{"slug":"shades-of-purple","title":"SHADES OF PURPLE"},{"slug":"shades-of-red","title":"SHADES OF RED"},{"slug":"shades-of-orange","title":"SHADES OF ORANGE"},{"slug":"shades-of-yellow","title":"SHADES OF YELLOW"}]}]
+f:["$","script","script-0",{"src":"/minded-gallery/_next/static/chunks/328_dbonw5fe3.js","async":true}]
+10:["$","$L24",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@25"}]}]
+17:["$","meta","4",{"property":"og:site_name","content":"MINDED"}]
+18:["$","meta","5",{"property":"og:type","content":"website"}]
+19:["$","meta","6",{"name":"twitter:card","content":"summary"}]
+1a:["$","meta","7",{"name":"twitter:title","content":"Contact | MINDED"}]
+1b:["$","meta","8",{"name":"twitter:description","content":"Gallery enquiries, exhibition opportunities, commissions, collaborations, press and general correspondence for MINDED."}]
+1c:["$","link","9",{"rel":"icon","href":"/minded-gallery/icon.svg?icon.1es6g2xs9jf_k.svg","sizes":"any","type":"image/svg+xml"}]
+1d:["$","$L26","10",{}]
+1e:["$","meta",null,{"name":"next-size-adjust","content":""}]
+8:300
+25:null
+21:true
+8:C
+20:0
+a:"$undefined"
+7:"$undefined"
+1f:"$undefined"
+11:"$undefined"

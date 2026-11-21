@@ -1,0 +1,4 @@
+:HL["/minded-gallery/_next/static/chunks/14a-4f4scr3bz.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"U0vhq9zpmMwPRSqlNcdwJ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
