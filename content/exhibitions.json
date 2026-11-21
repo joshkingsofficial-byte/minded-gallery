@@ -1,0 +1,55 @@
+{
+  "_note": "Exhibition layout content. Room geometry lives in lib/gallery/architecture.ts; this file assigns works to rooms and walls. Wall: L/R = side walls (t = 0..1 from room entrance to far end), B = far partition (x = metres from centre), F = feature wall.",
+  "exhibition": {
+    "slug": "minded-first-rooms",
+    "title": "MINDED: First Rooms",
+    "subtitle": "A virtual exhibition in six spaces",
+    "statement": "MINDED explores the relationship between intention and accident. The practice embraces experimentation, unexpected outcomes, material intervention and the discovery of meaning through creative play."
+  },
+  "rooms": [
+    {
+      "id": "entrance", "number": "", "title": "Entrance Hall", "subtitle": "MINDED",
+      "intro": "Titanium white, deep green and a short statement of intent. The rooms beyond continue in sequence.",
+      "placements": []
+    },
+    {
+      "id": "room-01", "number": "01", "title": "Photography & Solitude", "subtitle": "LONELY",
+      "intro": "Calm, distance and contemplation. A single photograph moved onto an unexpected support.",
+      "placements": [
+        { "artwork": "lonely", "wall": "L", "t": 0.5, "display": "deck-frame" },
+        { "artwork": "lonely-golden-sun", "wall": "R", "t": 0.5, "display": "deck-frame" }
+      ]
+    },
+    {
+      "id": "room-02", "number": "02", "title": "Colour Studies", "subtitle": "SHADES OF",
+      "intro": "Six concentric colour studies, hung together so the relationships between them can be compared.",
+      "placements": [
+        { "artwork": "shades-of", "wall": "R", "t": 0.5, "display": "deck-set" },
+        { "artwork": "15-shades-of-green", "wall": "L", "t": 0.5, "display": "image-frame" }
+      ]
+    },
+    {
+      "id": "room-03", "number": "03", "title": "Interventions", "subtitle": "JUSTICE · BLACK & GOLD",
+      "intro": "Photographs and surfaces altered by hand. Visualisations are labelled as such; nothing in this room is presented as finished unless stated.",
+      "placements": [
+        { "artwork": "justice", "wall": "L", "t": 0.5, "display": "deck-grid-3x3" },
+        { "artwork": "justice-vinyl-edition", "wall": "R", "t": 0.3, "display": "deck-frame" },
+        { "artwork": "black-and-gold", "wall": "R", "t": 0.72, "display": "deck-frame" }
+      ]
+    },
+    {
+      "id": "room-04", "number": "04", "title": "AURA", "subtitle": "AURA 001",
+      "intro": "A dedicated room for AURA 001. The object here is a web SIMULATION of its two states, not the physical installation.",
+      "placements": [
+        { "artwork": "aura-001", "wall": "R", "t": 0.5, "display": "aura-simulation" },
+        { "artwork": "aura-001", "wall": "L", "t": 0.3, "display": "doc", "image": 0 },
+        { "artwork": "aura-001", "wall": "L", "t": 0.72, "display": "doc", "image": 1 }
+      ]
+    },
+    {
+      "id": "room-05", "number": "05", "title": "The Archive", "subtitle": "Process, studies, accidents",
+      "intro": "An evolving room for sketches, process material and future studies.",
+      "placements": []
+    }
+  ]
+}

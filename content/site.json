@@ -1,0 +1,23 @@
+{
+  "name": "MINDED",
+  "artist": "Dammy Ojo",
+  "tagline": "THE SABOTEUR AND CURATOR OF ACCIDENTAL ERRORS",
+  "philosophy": [
+    "MINDED is the contemporary artistic identity of Dammy Ojo, a multidisciplinary creator working across photography, mixed media, sculptural objects, interactive technology, digital experiences and literary expression.",
+    "MINDED explores the relationship between intention and accident. The practice embraces experimentation, unexpected outcomes, material intervention and the discovery of meaning through creative play.",
+    "Art is not limited to one medium. A photograph may become a skateboard. A mirror may become an interactive artwork. An ordinary material may become a sculptural object."
+  ],
+  "vision": "The immediate focus is an individual practice. Over time, MINDED is intended to grow into an independent art house: a place for guest exhibitions, curated collections, publications and collaborative installations.",
+  "collectionName": "The Skateboard Art Collection",
+  "collectionStrap": "Photography / Colour / Material / Intervention",
+  "enquiryTypes": ["Gallery enquiries", "Exhibition opportunities", "Commissions", "Collaborations", "Press", "General correspondence"],
+  "filters": [
+    { "id": "all", "label": "All works" },
+    { "id": "photography", "label": "Photography" },
+    { "id": "installation", "label": "Installation" },
+    { "id": "mixed-media", "label": "Mixed media" },
+    { "id": "digital-art", "label": "Digital art" },
+    { "id": "sculpture", "label": "Sculpture" },
+    { "id": "in-development", "label": "In development" }
+  ]
+}
