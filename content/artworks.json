@@ -1,0 +1,634 @@
+{
+  "_note": "Structured artwork content. Phase 3 replaces this file with a CMS (see README). No prices are stored or shown on the public site by the artist's instruction.",
+  "artworks": [
+    {
+      "slug": "lonely",
+      "title": "LONELY",
+      "year": "2026",
+      "collection": "The Skateboard Art Collection",
+      "categories": [
+        "photography",
+        "mixed-media"
+      ],
+      "medium": "Photographic print on Canadian maple skateboard deck",
+      "mediumNote": "Also described by the artist as \"Photography & vinyl on skateboard deck\" and \"Photographic print on skateboard deck (vinyl)\".",
+      "dimensions": "TBC",
+      "status": "Physical skateboard artwork produced",
+      "statusType": "produced",
+      "statement": "A study in solitude, space and perspective.",
+      "description": [
+        "An original photograph of an expansive blue sea, pale sky and solitary sailboat.",
+        "The photograph has been reproduced on the underside of a skateboard deck.",
+        "The artwork explores solitude, distance, scale and perspective."
+      ],
+      "editions": [
+        {
+          "type": "Open edition",
+          "detail": "Printed"
+        },
+        {
+          "type": "Artist edition",
+          "detail": "Hand-finished details"
+        }
+      ],
+      "credits": "Original photograph by MINDED.",
+      "presentation": "Shadowbox frame",
+      "images": [
+        {
+          "src": "media/deck-lonely.webp",
+          "alt": "LONELY: a skateboard deck showing a pale blue sky, a deep blue sea and a small white sailboat near the bottom.",
+          "caption": "Deck visual.",
+          "kind": "visualisation",
+          "role": "deck"
+        },
+        {
+          "src": "media/lonely-shadowbox.webp",
+          "alt": "LONELY deck shown in a black shadowbox frame.",
+          "caption": "Deck in shadowbox frame.",
+          "kind": "visualisation",
+          "role": "detail"
+        },
+        {
+          "src": "media/lonely-triptych.webp",
+          "alt": "The LONELY sea photograph shown as three vertical panels; a small sailboat sits in the middle panel.",
+          "caption": "Original photograph shown as a triptych, the source for LONELY (as presented on the artist's board).",
+          "kind": "visualisation",
+          "role": "detail"
+        },
+        {
+          "src": "media/lonely-detail-boat.webp",
+          "alt": "Close detail of the white sailboat on the blue sea.",
+          "caption": "Detail: the boat (focal point).",
+          "kind": "visualisation",
+          "role": "detail"
+        },
+        {
+          "src": "media/lonely-detail-edge.webp",
+          "alt": "Close detail of the curved deck edge and finish.",
+          "caption": "Detail: deck edge and finish.",
+          "kind": "visualisation",
+          "role": "detail"
+        }
+      ],
+      "process": [
+        {
+          "src": "media/lonely-prints-photo.webp",
+          "alt": "Two printed LONELY sea photographs laid out on packaging, photographed in the studio.",
+          "caption": "Studio photograph: LONELY prints.",
+          "kind": "photograph"
+        }
+      ],
+      "toSupply": [
+        "The exact original LONELY photograph (full resolution)",
+        "Genuine photographs of the completed physical deck (front, underside, detail)"
+      ],
+      "published": true,
+      "order": 1
+    },
+    {
+      "slug": "lonely-golden-sun",
+      "title": "LONELY: GOLDEN SUN",
+      "year": "2026",
+      "collection": "The Skateboard Art Collection",
+      "categories": [
+        "photography",
+        "mixed-media",
+        "in-development"
+      ],
+      "medium": "Photographic print with hand-applied gold (mixed media) on Canadian maple deck",
+      "dimensions": "TBC",
+      "status": "Concept / Development",
+      "statusType": "concept",
+      "statement": "A continuation of LONELY, introducing light, hope and presence.",
+      "description": [
+        "A proposed variation of LONELY incorporating an expressive gold sun in the upper sky.",
+        "Shown as a visualisation until the physical artwork is produced."
+      ],
+      "editions": [
+        {
+          "type": "Open edition",
+          "detail": "Printed"
+        },
+        {
+          "type": "Artist edition",
+          "detail": "Hand-finished gold"
+        }
+      ],
+      "credits": "Original photograph by MINDED.",
+      "images": [
+        {
+          "src": "media/deck-golden-sun.webp",
+          "alt": "LONELY: GOLDEN SUN: the LONELY sea and sky on a skateboard deck with an expressive gold and orange sun in the upper sky.",
+          "caption": "Concept visualisation.",
+          "kind": "visualisation",
+          "role": "deck"
+        }
+      ],
+      "toSupply": [
+        "Approved concept image (full resolution)",
+        "Photographs of the physical deck once produced"
+      ],
+      "published": true,
+      "order": 2
+    },
+    {
+      "slug": "justice",
+      "title": "JUSTICE",
+      "year": "2026",
+      "collection": "The Skateboard Art Collection",
+      "categories": [
+        "photography",
+        "mixed-media",
+        "installation",
+        "in-development"
+      ],
+      "medium": "Photographic print on nine Canadian maple decks (3 × 3), with artist-applied red spray paint, custom frame and concealed mounting",
+      "dimensions": "TBC",
+      "status": "In development",
+      "statusType": "development",
+      "statement": "A commentary on power, blindness and accountability.",
+      "description": [
+        "An exploration of justice, blindness, power and accountability.",
+        "The concept uses a photograph of a sculptural figure holding a gold sword, with a red painted intervention across the eyes.",
+        "Proposed formats include a single skateboard deck and a nine-deck installation arranged in a 3 × 3 composition."
+      ],
+      "editions": [
+        {
+          "type": "Original (1 of 1)",
+          "detail": "Nine-deck installation (3 × 3), hand-painted by MINDED"
+        },
+        {
+          "type": "Open edition",
+          "detail": "Single deck, printed"
+        },
+        {
+          "type": "Artist edition",
+          "detail": "Single deck, hand-painted red"
+        }
+      ],
+      "rightsPending": true,
+      "rightsNote": "The underlying photograph was taken by Andre Pfeifer. Images of this work are withheld until the image rights are confirmed.",
+      "images": [
+        {
+          "src": "media/justice/deck-justice.webp",
+          "alt": "JUSTICE single deck visual.",
+          "caption": "Single-deck visualisation.",
+          "kind": "visualisation",
+          "role": "deck",
+          "restricted": "justice"
+        },
+        {
+          "src": "media/justice/justice-3x3.webp",
+          "alt": "JUSTICE nine-deck installation in a 3 × 3 frame.",
+          "caption": "Nine-deck (3 × 3) installation visualisation.",
+          "kind": "visualisation",
+          "role": "detail",
+          "restricted": "justice"
+        }
+      ],
+      "toSupply": [
+        "Written confirmation of image rights from Andre Pfeifer (or an authorised alternative image)",
+        "Final installation format (3 × 3 or 3 × 2) and dimensions"
+      ],
+      "published": true,
+      "order": 3
+    },
+    {
+      "slug": "justice-vinyl-edition",
+      "title": "JUSTICE (VINYL EDITION)",
+      "year": "2026",
+      "collection": "The Skateboard Art Collection",
+      "categories": [
+        "photography",
+        "in-development"
+      ],
+      "medium": "High-quality vinyl print on Canadian maple skateboard deck",
+      "dimensions": "TBC",
+      "status": "In development",
+      "statusType": "development",
+      "statement": "The accessible edition of JUSTICE, faithfully reproduced on a single deck with the red blindfold printed on vinyl.",
+      "description": [
+        "A single-deck edition of JUSTICE with the red intervention reproduced in print rather than applied by hand."
+      ],
+      "editions": [
+        {
+          "type": "Open edition",
+          "detail": "Printed"
+        }
+      ],
+      "rightsPending": true,
+      "rightsNote": "The underlying photograph was taken by Andre Pfeifer. Images of this work are withheld until the image rights are confirmed.",
+      "images": [
+        {
+          "src": "media/justice/justice-vinyl.webp",
+          "alt": "JUSTICE (Vinyl Edition) single deck in a black frame.",
+          "caption": "Visualisation.",
+          "kind": "visualisation",
+          "role": "deck",
+          "restricted": "justice"
+        }
+      ],
+      "toSupply": [
+        "Image rights confirmation (as JUSTICE)"
+      ],
+      "published": true,
+      "order": 4
+    },
+    {
+      "slug": "shades-of",
+      "title": "SHADES OF",
+      "year": "2026",
+      "collection": "The Skateboard Art Collection",
+      "categories": [
+        "digital-art",
+        "mixed-media",
+        "in-development"
+      ],
+      "medium": "Acrylic on Canadian maple skateboard decks (or high-quality printed edition)",
+      "dimensions": "TBC",
+      "status": "Digital artwork development",
+      "statusType": "development",
+      "statement": "A colour study in six parts, inspired by Sanzo Wada's Dictionary of Colour Combinations. A meditative exploration of harmony, contrast and emotion.",
+      "description": [
+        "A series of six concentric abstract compositions exploring colour relationships, contrast and emotional perception.",
+        "The designs use smooth colour fields without rhinestone or bead textures.",
+        "The colour relationships are informed by research into Sanzo Wada's Dictionary of Color Combinations."
+      ],
+      "editions": [
+        {
+          "type": "Six-piece set",
+          "detail": "Printed"
+        },
+        {
+          "type": "Six-piece set",
+          "detail": "Hand-painted (artist edition)"
+        },
+        {
+          "type": "Individual deck",
+          "detail": "Printed (open edition)"
+        }
+      ],
+      "series": [
+        "shades-of-green",
+        "shades-of-blue",
+        "shades-of-purple",
+        "shades-of-red",
+        "shades-of-orange",
+        "shades-of-yellow"
+      ],
+      "images": [],
+      "toSupply": [
+        "Original design files for the six colour studies (the current deck visuals are small crops from the collection board)"
+      ],
+      "published": true,
+      "order": 5
+    },
+    {
+      "slug": "shades-of-green",
+      "title": "SHADES OF GREEN",
+      "parent": "shades-of",
+      "year": "2026",
+      "categories": [
+        "digital-art",
+        "in-development"
+      ],
+      "medium": "Acrylic on Canadian maple skateboard deck (or high-quality printed edition)",
+      "dimensions": "TBC",
+      "status": "Digital artwork development",
+      "statusType": "development",
+      "statement": "One of six colour studies in SHADES OF.",
+      "description": [
+        "Concentric fields of green, from deep forest tones at the centre outward through lighter greens."
+      ],
+      "editions": [
+        {
+          "type": "Individual deck",
+          "detail": "Printed (open edition)"
+        }
+      ],
+      "images": [
+        {
+          "src": "media/deck-shades-green.webp",
+          "alt": "SHADES OF GREEN: concentric oval bands of green on a skateboard deck.",
+          "caption": "Deck visualisation.",
+          "kind": "visualisation",
+          "role": "deck"
+        }
+      ],
+      "published": true,
+      "order": 51
+    },
+    {
+      "slug": "shades-of-blue",
+      "title": "SHADES OF BLUE",
+      "parent": "shades-of",
+      "year": "2026",
+      "categories": [
+        "digital-art",
+        "in-development"
+      ],
+      "medium": "Acrylic on Canadian maple skateboard deck (or high-quality printed edition)",
+      "dimensions": "TBC",
+      "status": "Digital artwork development",
+      "statusType": "development",
+      "statement": "One of six colour studies in SHADES OF.",
+      "description": [
+        "Concentric fields of blue, from deep navy at the centre outward to pale blue."
+      ],
+      "editions": [
+        {
+          "type": "Individual deck",
+          "detail": "Printed (open edition)"
+        }
+      ],
+      "images": [
+        {
+          "src": "media/deck-shades-blue.webp",
+          "alt": "SHADES OF BLUE: concentric oval bands of blue on a skateboard deck.",
+          "caption": "Deck visualisation.",
+          "kind": "visualisation",
+          "role": "deck"
+        }
+      ],
+      "published": true,
+      "order": 52
+    },
+    {
+      "slug": "shades-of-purple",
+      "title": "SHADES OF PURPLE",
+      "parent": "shades-of",
+      "year": "2026",
+      "categories": [
+        "digital-art",
+        "in-development"
+      ],
+      "medium": "Acrylic on Canadian maple skateboard deck (or high-quality printed edition)",
+      "dimensions": "TBC",
+      "status": "Digital artwork development",
+      "statusType": "development",
+      "statement": "One of six colour studies in SHADES OF.",
+      "description": [
+        "Concentric fields of purple and violet."
+      ],
+      "editions": [
+        {
+          "type": "Individual deck",
+          "detail": "Printed (open edition)"
+        }
+      ],
+      "images": [
+        {
+          "src": "media/deck-shades-purple.webp",
+          "alt": "SHADES OF PURPLE: concentric oval bands of purple on a skateboard deck.",
+          "caption": "Deck visualisation.",
+          "kind": "visualisation",
+          "role": "deck"
+        }
+      ],
+      "published": true,
+      "order": 53
+    },
+    {
+      "slug": "shades-of-red",
+      "title": "SHADES OF RED",
+      "parent": "shades-of",
+      "year": "2026",
+      "categories": [
+        "digital-art",
+        "in-development"
+      ],
+      "medium": "Acrylic on Canadian maple skateboard deck (or high-quality printed edition)",
+      "dimensions": "TBC",
+      "status": "Digital artwork development",
+      "statusType": "development",
+      "statement": "One of six colour studies in SHADES OF.",
+      "description": [
+        "Concentric fields of red, from dark crimson at the centre outward."
+      ],
+      "editions": [
+        {
+          "type": "Individual deck",
+          "detail": "Printed (open edition)"
+        }
+      ],
+      "images": [
+        {
+          "src": "media/deck-shades-red.webp",
+          "alt": "SHADES OF RED: concentric oval bands of red on a skateboard deck.",
+          "caption": "Deck visualisation.",
+          "kind": "visualisation",
+          "role": "deck"
+        }
+      ],
+      "published": true,
+      "order": 54
+    },
+    {
+      "slug": "shades-of-orange",
+      "title": "SHADES OF ORANGE",
+      "parent": "shades-of",
+      "year": "2026",
+      "categories": [
+        "digital-art",
+        "in-development"
+      ],
+      "medium": "Acrylic on Canadian maple skateboard deck (or high-quality printed edition)",
+      "dimensions": "TBC",
+      "status": "Digital artwork development",
+      "statusType": "development",
+      "statement": "One of six colour studies in SHADES OF.",
+      "description": [
+        "Concentric fields of orange."
+      ],
+      "editions": [
+        {
+          "type": "Individual deck",
+          "detail": "Printed (open edition)"
+        }
+      ],
+      "images": [
+        {
+          "src": "media/deck-shades-orange.webp",
+          "alt": "SHADES OF ORANGE: concentric oval bands of orange on a skateboard deck.",
+          "caption": "Deck visualisation.",
+          "kind": "visualisation",
+          "role": "deck"
+        }
+      ],
+      "published": true,
+      "order": 55
+    },
+    {
+      "slug": "shades-of-yellow",
+      "title": "SHADES OF YELLOW",
+      "parent": "shades-of",
+      "year": "2026",
+      "categories": [
+        "digital-art",
+        "in-development"
+      ],
+      "medium": "Acrylic on Canadian maple skateboard deck (or high-quality printed edition)",
+      "dimensions": "TBC",
+      "status": "Digital artwork development",
+      "statusType": "development",
+      "statement": "One of six colour studies in SHADES OF.",
+      "description": [
+        "Concentric fields of yellow and gold."
+      ],
+      "editions": [
+        {
+          "type": "Individual deck",
+          "detail": "Printed (open edition)"
+        }
+      ],
+      "images": [
+        {
+          "src": "media/deck-shades-yellow.webp",
+          "alt": "SHADES OF YELLOW: concentric oval bands of yellow on a skateboard deck.",
+          "caption": "Deck visualisation.",
+          "kind": "visualisation",
+          "role": "deck"
+        }
+      ],
+      "published": true,
+      "order": 56
+    },
+    {
+      "slug": "black-and-gold",
+      "title": "BLACK & GOLD",
+      "year": "2026",
+      "collection": "The Skateboard Art Collection",
+      "categories": [
+        "mixed-media",
+        "in-development"
+      ],
+      "medium": "Acrylic and gold leaf (mixed media) on Canadian maple skateboard deck",
+      "dimensions": "TBC",
+      "status": "Concept / Development",
+      "statusType": "concept",
+      "statement": "A dialogue between movement, contrast and value.",
+      "description": [
+        "An abstract composition exploring movement, contrast, materiality and the relationship between black forms and gold."
+      ],
+      "editions": [
+        {
+          "type": "Original (1 of 1)",
+          "detail": ""
+        },
+        {
+          "type": "Limited edition",
+          "detail": "Printed"
+        }
+      ],
+      "images": [
+        {
+          "src": "media/deck-black-gold.webp",
+          "alt": "BLACK & GOLD: sweeping black brush forms and a gold disc on a pale gold-flecked skateboard deck.",
+          "caption": "Concept visualisation.",
+          "kind": "visualisation",
+          "role": "deck"
+        }
+      ],
+      "toSupply": [
+        "The approved original design file"
+      ],
+      "published": true,
+      "order": 6
+    },
+    {
+      "slug": "15-shades-of-green",
+      "title": "15 SHADES OF GREEN",
+      "year": "2026",
+      "categories": [
+        "mixed-media",
+        "in-development"
+      ],
+      "medium": "Rhinestones on skateboard deck",
+      "dimensions": "TBC",
+      "status": "Visualisation (status to be confirmed by the artist)",
+      "statusType": "concept",
+      "statement": "A related work to SHADES OF, rendered in rhinestones rather than smooth colour fields.",
+      "description": [
+        "Concentric rings of green rhinestones on a single skateboard deck, presented in a deep black frame."
+      ],
+      "editions": [
+        {
+          "type": "1 of 1",
+          "detail": ""
+        }
+      ],
+      "images": [
+        {
+          "src": "media/15-shades-main.webp",
+          "alt": "A skateboard deck covered in concentric rings of green rhinestones, in a deep black frame with a small wall label.",
+          "caption": "Visualisation.",
+          "kind": "visualisation",
+          "role": "deck"
+        },
+        {
+          "src": "media/15-shades-detail.webp",
+          "alt": "Close detail of green rhinestones in concentric bands along the deck edge.",
+          "caption": "Detail visualisation: rhinestone surface.",
+          "kind": "visualisation",
+          "role": "detail"
+        },
+        {
+          "src": "media/15-shades-frame-detail.webp",
+          "alt": "Corner of the black frame with the rhinestone deck inside.",
+          "caption": "Detail visualisation: frame corner.",
+          "kind": "visualisation",
+          "role": "detail"
+        }
+      ],
+      "toSupply": [
+        "Confirmation of status, and whether this work is part of SHADES OF or a separate work"
+      ],
+      "published": true,
+      "order": 7
+    },
+    {
+      "slug": "aura-001",
+      "title": "AURA 001",
+      "year": "2026",
+      "categories": [
+        "installation",
+        "digital-art",
+        "in-development"
+      ],
+      "medium": "Interactive installation (art and technology): Raspberry Pi 4, Dell 24 Plus S2425HSM display; two-way mirror surface in testing",
+      "dimensions": "TBC",
+      "status": "In development",
+      "statusType": "development",
+      "statement": "Technology is the medium. Emotion is the outcome.",
+      "description": [
+        "An interactive artwork exploring the relationship between digital imagery, reflection and human presence. AURA exists between a functional mirror and an art installation.",
+        "Its natural state is ART: one artwork occupies the full surface, without a clock, interface or unnecessary information. When someone asks for the mirror, the artwork recedes and their reflection emerges. When that interaction ends, ART returns.",
+        "ART and MIRROR are not two unrelated apps. They are two states of the same physical object."
+      ],
+      "editions": [],
+      "images": [
+        {
+          "src": "media/aura-3b-concept-board.webp",
+          "alt": "AURA 001 concept board: a dark sculptural frame with crocodile-grain finish shown from front, side and rear, the startup layout, and an exploded view of the layers.",
+          "caption": "AURA 001: 3B Heavy Sculptural Crocodile concept board. Visual direction only, not a manufacturing drawing.",
+          "kind": "concept",
+          "role": "detail"
+        },
+        {
+          "src": "media/aura-mirror-state-screenshot.webp",
+          "alt": "AURA MIRROR-state interface screenshot: a dark surface with the time 23:17 and date at top left, the AURA wordmark at top centre, now-playing text at top right and weather at bottom right.",
+          "caption": "AURA 001 MIRROR-state development screenshot, 14 October 2026. The final reflective surface is still being tested.",
+          "kind": "documentation",
+          "role": "detail"
+        }
+      ],
+      "toSupply": [
+        "Prototype startup video",
+        "Authentic prototype photographs of the installation",
+        "Further approved concept images"
+      ],
+      "published": true,
+      "order": 0
+    }
+  ]
+}

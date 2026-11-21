@@ -1,0 +1,29 @@
+{
+  "_note": "Archive / process entries. kind: photograph | visualisation | documentation | concept | placeholder.",
+  "intro": "Experimentation is part of the practice. This archive keeps the tests, studies and unfinished ideas alongside the work they led to, including the accidents.",
+  "sections": [
+    { "id": "studio", "title": "Studio documentation", "entries": [
+      { "title": "LONELY prints", "src": "media/lonely-prints-photo.webp", "alt": "Two printed LONELY sea photographs laid out on packaging in the studio.", "caption": "Photograph of the LONELY prints.", "kind": "photograph", "related": "lonely" }
+    ]},
+    { "id": "prototype", "title": "Prototype development", "entries": [
+      { "title": "AURA 001: MIRROR state", "src": "media/aura-mirror-state-screenshot.webp", "alt": "AURA MIRROR-state interface screenshot on a dark surface.", "caption": "Development screenshot, 14 October 2026. The final reflective surface is still being tested.", "kind": "documentation", "related": "aura-001" },
+      { "title": "AURA 001: 3B Heavy Sculptural Crocodile", "src": "media/aura-3b-concept-board.webp", "alt": "AURA 001 concept board showing a dark crocodile-grain frame.", "caption": "Concept board: visual direction only, not a manufacturing drawing.", "kind": "concept", "related": "aura-001" }
+    ]},
+    { "id": "photographic", "title": "Photographic studies", "entries": [
+      { "title": "LONELY: source photograph as triptych", "src": "media/lonely-triptych.webp", "alt": "The LONELY sea photograph shown as three vertical panels.", "caption": "As presented on the artist's board.", "kind": "visualisation", "related": "lonely" }
+    ]},
+    { "id": "material", "title": "Material tests", "entries": [
+      { "title": "15 SHADES OF GREEN: surface", "src": "media/15-shades-detail.webp", "alt": "Detail of green rhinestones in concentric bands.", "caption": "Visualisation of a rhinestone surface.", "kind": "visualisation", "related": "15-shades-of-green" },
+      { "title": "Material tests", "kind": "placeholder", "caption": "Photographs of material tests to be supplied by the artist." }
+    ]},
+    { "id": "sketches", "title": "Sketches", "entries": [
+      { "title": "Sketchbook pages", "kind": "placeholder", "caption": "To be supplied by the artist." }
+    ]},
+    { "id": "unfinished", "title": "Unfinished ideas", "entries": [
+      { "title": "Unfinished ideas", "kind": "placeholder", "caption": "To be supplied by the artist." }
+    ]},
+    { "id": "accidents", "title": "Reflections on creative accidents", "entries": [
+      { "title": "Reflections", "kind": "placeholder", "caption": "Written reflections to be supplied by the artist." }
+    ]}
+  ]
+}

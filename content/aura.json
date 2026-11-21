@@ -1,0 +1,29 @@
+{
+  "slug": "aura-001",
+  "line": "Technology is the medium. Emotion is the outcome.",
+  "idea": [
+    "AURA began with an experiment in intelligent mirrors. As it developed, the technology became less important than the artistic question behind it: can something remain useful as a mirror without giving up its identity as art?",
+    "When AURA hosts art, she gives the artist the room."
+  ],
+  "principles": ["ART is home", "Presence is not participation", "Human intention overrides automation", "Reflection has priority", "Technology should be felt through the experience rather than constantly announced"],
+  "states": [
+    { "name": "ART", "role": "home", "points": ["One hosted artwork owns the full surface.", "No clock, weather, music metadata or controls over the artwork.", "The artwork remains until the experience is intentionally changed or the programme moves on."] },
+    { "name": "MIRROR", "role": "invited utility", "points": ["The viewer sees their reflection.", "Time/date and restrained information sit around the edges.", "Music may be acknowledged when it is present, without turning AURA into a music player."] }
+  ],
+  "transition": "The movement between the two states is part of the artwork. The Reveal is designed so that the viewer's reflection briefly appears through the artwork before MIRROR fully emerges. A quiet Stillness gives the reflection space. The AURA wordmark then appears and generates the perimeter Trace. The Return is not simply the reverse: information recedes, the Trace withdraws, the surface becomes still and ART emerges again.",
+  "existsToday": [
+    "The current AURA 001 installation runs on a Raspberry Pi 4 and a Dell 24 Plus S2425HSM monitor, with its own startup and kiosk experience, independent of the development laptop.",
+    "A cold-boot test was observed reaching AURA and ART without manual input.",
+    "The AURA 001 startup experience is in place.",
+    "ART runs full-screen, and a local schedule changes hosted studies according to time.",
+    "A Technician preview allows artwork to be inspected directly and returned to the normal schedule.",
+    "The Dell is currently the reference display for judging colour, framing, contrast and scale."
+  ],
+  "inDevelopment": [
+    { "area": "Voice", "position": "Not finished. A restart-loop fix exists; spoken commands are not yet confirmed to work reliably." },
+    { "area": "Music recognition", "position": "Designed but not built." },
+    { "area": "Mirror surface", "position": "Two 3 mm two-way silver mirror acrylic samples are still to be compared on the reference display before dimensions are decided." },
+    { "area": "Physical body", "position": "Selected direction: 3B Heavy Sculptural Crocodile. Exact finish and construction are still open." }
+  ],
+  "rule": "The computer can propose. The physical work decides."
+}
